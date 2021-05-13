@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://gopalsays-git-main-gopalsays.vercel.app/api/spotify" alt="Gopal Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://github-readme-stats-iota-wine.vercel.app/api/spotify" alt="Gopal Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
