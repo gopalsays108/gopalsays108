@@ -1,9 +1,9 @@
-### Hi there, I'm GOpal - A self-taught Programmer & Developer 👋
+### Hi there, I'm Gopal - A self-taught Programmer & Developer 👋
 
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and do competitive programming
+- 🥅 2021 Goals: Contribute more to Open Source projects and competitive programming
 - ⚡ Fun fact: I love to play guitar & I love kitkat over silk😂❤
 
 ### Spotify Playing 🎧
@@ -13,10 +13,14 @@
 ### Connect with me:
 
 [<img align="left" alt="Gopal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCkK1VihLdKTm2quGvXI3jxw]
+
 [<img align="left" alt="Gopal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/gopalsays108]
+
 [<img align="left" alt="Gopal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/gopalsays108/]
-[<img align="left" alt="Gopal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/gopalsays108/]
-[<img align="left" alt="Gopal codechef | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/gopalsays108/]
+
+[<img align="left" alt="Gopal2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/gopalsays108/]
+
+[<img align="left" alt="Gopal0 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][https://www.instagram.com/gopalsays108/]
 
 <br />
 
@@ -42,35 +46,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.56 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=t4_h9DBF2hE)
-- [CSS Nesting Is Coming Soon! 🤯 How To Nest Selector Styles TODAY!! (2021)](https://www.youtube.com/watch?v=V7Xinz27XQA)
-- [Vite 2.0 Crash Course | Super Fast Build Tool for JavaScript, React, Vue, Svelte, & Lit (2021)](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
-- [Edit Images in VS Code!?! | Luna Paint Extension](https://www.youtube.com/watch?v=I_6bZQZheC0)
-- [Web Development Tutorial (JavaScript, HTML, CSS) Rock Paper Scissors Game](https://www.youtube.com/watch?v=P_H4_miTKsI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
