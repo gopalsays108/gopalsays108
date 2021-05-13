@@ -23,8 +23,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-[<img align="left" alt="c Plus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/cplusplus/cplusplus.svg" />][cplusplus]
-[<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/androidstudio.svg" />][android]
+[<img align="left" alt="c Plus" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javcplusplus/cplusplus.png" />][cplusplus]
+[<img align="left" alt="Android Studio" width="26px" src="android.png" />][android]
 [<img align="left" alt="Spring framework" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png" />][android]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
