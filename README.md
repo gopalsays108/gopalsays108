@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Gopal GitHub Stats" src="https://gopalsays-git-main-gopalsays.vercel.app/api?username=gopalsays&show_icons=true&hide_border=true" />
+  <img align="left" alt="Gopal GitHub Stats" src="https://gopalsays-ctva9dfme-gopalsays.vercel.app/api?username=gopalsays&show_icons=true&hide_border=true" />
 
 </details>
 
