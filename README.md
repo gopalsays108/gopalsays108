@@ -40,13 +40,10 @@
 <br />
 <br />
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-   <img align="left" alt="Gopal GitHub Stats" src="https://gopalsays-git-main-gopalsays.vercel.app/api?username=gopalsays&show_icons=true" />
+   <img align="left" alt="Gopal GitHub Stats" src="https://gopalsays-git-main-gopalsays.vercel.app/api?username=gopalsays" />
       
-</details>
-
 
 [course]: http://vsCodeHero.com
 [java]: https://www.java.com/en/
