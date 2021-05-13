@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gopal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCkK1VihLdKTm2quGvXI3jxw]
+[<img align="left" alt="Gopal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> https://www.youtube.com/channel/UCkK1VihLdKTm2quGvXI3jxw]
 
 [<img align="left" alt="Gopal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/gopalsays108]
 
