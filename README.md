@@ -42,7 +42,9 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Gopal GitHub Stats" src="https://gopalsays-git-main-gopalsays.vercel.app/api?username=gopalsays" />      
+  <img align="left" alt="Gopal GitHub Stats" src="https://gopalsays-git-main-gopalsays.vercel.app/api?username=gopalsays" />     
+  [![gopalsays's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalsays)](https://github.com/gopalsays/gopalsays)
+
 
 [course]: http://vsCodeHero.com
 [java]: https://www.java.com/en/
