@@ -48,7 +48,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Gopal GitHub Stats" src="https://github-readme-stats-iota-wine.vercel.app/api?username=gopalsays" />     
+  <img align="left" alt="Gopal GitHub Stats" src="https://github-readme-stats-iota-wine.vercel.app/api?username=gopalsays&theme=vision-friendly-dark&show_icons=true" />     
 
  
 [course]: http://vsCodeHero.com
