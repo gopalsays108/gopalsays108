@@ -10,10 +10,11 @@
 
 
 <!--[<img src="https://github-readme-stats-iota-wine.vercel.app/api2/spotify" alt="Gopal Spotify Playing" width="350" />](https://open.spotify.com/user/31h367esxyefeyd2fgjb5lxkjrnq)
+ -->
 
  
-<!--[![Spotify](https://novatorem-smoky-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/31h367esxyefeyd2fgjb5lxkjrnq)
- -->
+[![Spotify](https://novatorem-gopalsays.vercel.app/api/spotify)](https://open.spotify.com/user/31h367esxyefeyd2fgjb5lxkjrnq)
+
 
 
 ### Connect with me:
