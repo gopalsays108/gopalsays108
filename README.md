@@ -14,7 +14,7 @@
 
 <!--  
 [![Spotify](https://novatorem-gopalsays.vercel.app/api/spotify)](https://open.spotify.com/user/31h367esxyefeyd2fgjb5lxkjrnq) -->
-[![Spotify](https://novatorem-gopalsays.vercel.app/api/spotify)](https://open.spotify.com/user/31h367esxyefeyd2fgjb5lxkjrnq)
+[![Spotify](https://novatorem-7fhctuhl6-gopalsays.vercel.app/api/spotify)](https://open.spotify.com/user/31h367esxyefeyd2fgjb5lxkjrnq)
 
 
 
