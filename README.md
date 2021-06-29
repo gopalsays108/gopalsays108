@@ -18,7 +18,7 @@
 
 
 
-### Connect with me:
+### - Connect with me:
 
 [<img align="left" alt="Gopal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Gopal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -29,7 +29,7 @@
 <br />
 
 
-### Languages and Tools:
+### - Languages and Tools:
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 [<img align="left" alt="c Plus" width="26px" src="icons/cplus.png" />][cplusplus]
 [<img align="left" alt="Android Studio" width="26px" src="icons/android.png" />][android]
