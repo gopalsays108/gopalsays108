@@ -1,6 +1,6 @@
 ### Hi there, I'm Gopal - A self-taught Programmer & Developer 👋
 
- ## I'm a Student and a Developer!!![Gopal's Github Profile Views](https://komarev.com/ghpvc/?username=gopalsays108&color=blueviolet)  
+ ## I'm a Student and a Developer!!!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [Gopal's Github Profile Views](https://komarev.com/ghpvc/?username=gopalsays108&color=blueviolet)  
 
 
 - 🌱 I’m currently learning everything 🤣
