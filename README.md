@@ -55,7 +55,7 @@
   
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopalsays108&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopalsays108&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 
  
