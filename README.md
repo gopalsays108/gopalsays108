@@ -52,13 +52,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Gopal GitHub Stats" src="https://github-readme-stats-iota-wine.vercel.app/api?username=gopalsays108&theme=vision-friendly-dark&show_icons=true" />  
+
   
-
-  </br>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopalsays108&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-
  
 [course]: http://vsCodeHero.com
 [java]: https://www.java.com/en/
