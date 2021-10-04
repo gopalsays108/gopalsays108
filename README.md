@@ -65,7 +65,7 @@
 [nodejs]: https://nodejs.org/en/about/
 [jsscript]: https://en.wikipedia.org/wiki/JavaScript
 [youtube]: https://www.youtube.com/channel/UCkK1VihLdKTm2quGvXI3jxw
-[instagram]: https://www.instagram.com/gopalsays108/
+[instagram]: https://www.instagram.com/gopalsayss108/
 [linkedin]: https://www.linkedin.com/in/gopalsays108/
 [codechef]: https://www.codechef.com/users/gopalsays108
 [sql]: https://en.wikipedia.org/wiki/SQL
