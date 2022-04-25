@@ -5,7 +5,7 @@
       
 - 🌱 I’m currently learning everything 🤣   
 - 🥅 2022 Goals: Contribute more to Open Source projects and competitive programming 💻
-- ⚡ Fun fact: I love to play guitar & I love kitkat over silk😂❤
+- ⚡ Fun fact: I love to play guitar & I love kitkat over silk 😂❤
      
 <!-- ### Spotify Playing 🎧     
                               
