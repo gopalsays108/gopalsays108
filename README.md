@@ -1,5 +1,5 @@
 ### Hi there, I'm Gopal - A self-taught Programmer & Developer 👋
-          
+
 ![Gopal's Github Profile Views](https://komarev.com/ghpvc/?username=gopalsays108&color=blueviolet)  
  ## I'm a Student and a Developer!!!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
       
@@ -54,7 +54,7 @@
   <img align="left" alt="Gopal GitHub Stats" src="https://github-readme-stats-iota-wine.vercel.app/api?username=gopalsays108&theme=vision-friendly-dark&show_icons=true" />  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gopalsays108&theme=dark)](https://git.io/streak-stats)
-
+ 
   
      
 [course]: http://vsCodeHero.com
