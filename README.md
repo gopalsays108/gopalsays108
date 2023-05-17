@@ -4,7 +4,7 @@
  ## I'm a Student and a Developer!!!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
       
 - 🌱 I’m currently learning everything 🤣   
-- 🥅 2022 Goals: Contribute more to Open Source projects and competitive programming 💻
+- 🥅 2023 Goals: Contribute more to Open Source projects and competitive programming 💻
 - ⚡ Fun fact: I love to play guitar & I love kitkat over silk 😂❤
      
 <!-- ### Spotify Playing 🎧     
